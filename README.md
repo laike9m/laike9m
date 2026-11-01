@@ -1,4 +1,4 @@
-I'm a software engineer, working on [Jules Coding Agent](https://jules.google/) at Google.
+I'm a software engineer, working on AI agents at [Google Labs](https://labs.google/).
 
 Featured articles & talks:
 - [What's Next for Agentic Coding Products? (2026)](https://laike9m.com/blog/agent-coding-trend,173/)
